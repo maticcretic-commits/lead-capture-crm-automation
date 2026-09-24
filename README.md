@@ -1,5 +1,10 @@
 # Lead Capture → CRM Automation (Demo)
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/lead-capture-crm-automation?style=social)](https://github.com/maticcretic-commits/lead-capture-crm-automation/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/lead-capture-crm-automation)](https://github.com/maticcretic-commits/lead-capture-crm-automation/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/lead-capture-crm-automation)
+
+
 Every website form submission becomes an enriched lead in the CRM — with an instant Slack alert so sales can follow up in minutes, not days.
 
 ## The problem
